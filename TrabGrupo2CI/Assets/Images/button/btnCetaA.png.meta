@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e498a665918497440ab6246f6c2f92d4
+guid: 4e783422786dc6f4cbea6cec3b016c03
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 64064276545622960
-    second: btnCetaA_0
+      213: -4190427553623440697
+    second: "\u0420\u0435\u0441\u0443\u0440\u0441 10_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: btnCetaA_0
+      name: "\u0420\u0435\u0441\u0443\u0440\u0441 10_0"
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 23
-        height: 23
+        width: 143
+        height: 143
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0b35b4ebe1a93e000800000000000000
-      internalID: 64064276545622960
+      spriteID: 7c20441875c98d5c0800000000000000
+      internalID: -4190427553623440697
       vertices: []
       indices: 
       edges: []
@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "\u0420\u0435\u0441\u0443\u0440\u0441 10_0": -4190427553623440697
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

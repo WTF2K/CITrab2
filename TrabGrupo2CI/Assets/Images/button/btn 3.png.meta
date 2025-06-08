@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e594db633c00c7944aa5bc25d5290cc1
+guid: 9b6e314a68936eb48b7a8245802a7574
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8934681622671939763
-    second: btnRox_0
+      213: -2330622252861330509
+    second: "\u0420\u0435\u0441\u0443\u0440\u0441 3_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: btnRox_0
+      name: "\u0420\u0435\u0441\u0443\u0440\u0441 3_0"
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 137
-        height: 45
+        width: 315
+        height: 103
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d47ad63f662a10480800000000000000
-      internalID: -8934681622671939763
+      spriteID: 3bb6490c867f7afd0800000000000000
+      internalID: -2330622252861330509
       vertices: []
       indices: 
       edges: []
@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "\u0420\u0435\u0441\u0443\u0440\u0441 3_0": -2330622252861330509
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

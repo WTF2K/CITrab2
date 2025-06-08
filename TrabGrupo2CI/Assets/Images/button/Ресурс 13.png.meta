@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: eb9f4ad2ab200a44cb05d8d9e7d96a9f
+guid: 2644e3653cf8ed244b08cabaf3a7d15b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7249626403751624275
-    second: btnAzulEsc_0
+      213: -7670513879562429976
+    second: "\u0420\u0435\u0441\u0443\u0440\u0441 13_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: btnAzulEsc_0
+      name: "\u0420\u0435\u0441\u0443\u0440\u0441 13_0"
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 137
-        height: 45
+        width: 180
+        height: 181
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 35e78e5ddc8db9460800000000000000
-      internalID: 7249626403751624275
+      spriteID: 8e95af3444cdc8590800000000000000
+      internalID: -7670513879562429976
       vertices: []
       indices: 
       edges: []

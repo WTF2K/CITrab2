@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: aab97fed7d1855b4ea2971b0d2800886
+guid: dedc89c69a34bf848a09dca55d9901da
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3934877304630137359
-    second: btnC_0
+      213: -4190427553623440697
+    second: "\u0420\u0435\u0441\u0443\u0440\u0441 10_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: btnC_0
+      name: "\u0420\u0435\u0441\u0443\u0440\u0441 10_0"
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 137
-        height: 45
+        width: 315
+        height: 103
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1fd26c670f18469c0800000000000000
-      internalID: -3934877304630137359
+      spriteID: 7c20441875c98d5c0800000000000000
+      internalID: -4190427553623440697
       vertices: []
       indices: 
       edges: []
@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "\u0420\u0435\u0441\u0443\u0440\u0441 10_0": -4190427553623440697
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
