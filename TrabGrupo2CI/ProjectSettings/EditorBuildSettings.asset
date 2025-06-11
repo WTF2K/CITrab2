@@ -15,10 +15,10 @@ EditorBuildSettings:
     path: Assets/Scenes/MenuPazzle.unity
     guid: c0fa310d1f856174998655bf6b35300e
   - enabled: 1
-    path: Assets/Scenes/Cereais1.unity
+    path: Assets/Scenes/Alimentos/Cereais1.unity
     guid: 82c7767764cc2ca40909e5764e4fed19
   - enabled: 1
-    path: Assets/Scenes/Cereais2.unity
+    path: Assets/Scenes/Alimentos/Cereais2.unity
     guid: d019caebc1a894e4589e793f1b7ccd05
   - enabled: 1
     path: Assets/Scenes/NiveisPazzle.unity
