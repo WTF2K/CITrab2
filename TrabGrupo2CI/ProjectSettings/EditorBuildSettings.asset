@@ -9,10 +9,10 @@ EditorBuildSettings:
     path: Assets/Scenes/MainScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/Scenes/RegrasCena.unity
+    path: Assets/Scenes/gamePazzle/RegrasCena.unity
     guid: 4c5ff4a3987185a42ac2f18909d88469
   - enabled: 1
-    path: Assets/Scenes/MenuPazzle.unity
+    path: Assets/Scenes/gamePazzle/MenuPazzle.unity
     guid: c0fa310d1f856174998655bf6b35300e
   - enabled: 1
     path: Assets/Scenes/Alimentos/Cereais1.unity
@@ -21,7 +21,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Alimentos/Cereais2.unity
     guid: d019caebc1a894e4589e793f1b7ccd05
   - enabled: 1
-    path: Assets/Scenes/NiveisPazzle.unity
+    path: Assets/Scenes/gamePazzle/NiveisPazzle.unity
     guid: 7bab8207faa6bd142916b107a1a1b04e
   - enabled: 1
     path: Assets/Scenes/RodaAlimentosScene.unity
@@ -30,13 +30,13 @@ EditorBuildSettings:
     path: Assets/Scenes/VideoScene.unity
     guid: e8b6600614b6f424997a7536b9af2ec3
   - enabled: 1
-    path: Assets/Scenes/NivelFacil.unity
+    path: Assets/Scenes/gamePazzle/NivelFacil.unity
     guid: 20fcee28541845a4885c7aea31cdb7c3
   - enabled: 1
-    path: Assets/Scenes/NivelMedio.unity
+    path: Assets/Scenes/gamePazzle/NivelMedio.unity
     guid: 6b3a9d324357dfa4b81c8412b592e9a8
   - enabled: 1
-    path: Assets/Scenes/NivelDificil.unity
+    path: Assets/Scenes/gamePazzle/NivelDificil.unity
     guid: ee279ebf43fea3649b32394a7248ca04
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
