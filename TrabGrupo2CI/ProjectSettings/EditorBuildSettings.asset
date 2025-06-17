@@ -24,11 +24,14 @@ EditorBuildSettings:
     path: Assets/Scenes/gamePazzle/NiveisPazzle.unity
     guid: 7bab8207faa6bd142916b107a1a1b04e
   - enabled: 1
+    path: Assets/Scenes/VideoScene.unity
+    guid: e8b6600614b6f424997a7536b9af2ec3
+  - enabled: 1
     path: Assets/Scenes/RodaAlimentosScene.unity
     guid: 2cfd445d137a82847a06dbdf1a223971
   - enabled: 1
-    path: Assets/Scenes/VideoScene.unity
-    guid: e8b6600614b6f424997a7536b9af2ec3
+    path: Assets/Scenes/CenaJogos.unity
+    guid: 1abe18dbdfa5591409647aa3c7415c5d
   - enabled: 1
     path: Assets/Scenes/gamePazzle/NivelFacil.unity
     guid: 20fcee28541845a4885c7aea31cdb7c3
@@ -42,6 +45,7 @@ EditorBuildSettings:
     path: Assets/Scenes/gamePazzle/FinalPazzle.unity
     guid: b93a7a790332f694ea9cacf95bbf1102
   - enabled: 1
+<<<<<<< HEAD
     path: Assets/Scenes/CenaJogos.unity
     guid: 1abe18dbdfa5591409647aa3c7415c5d
   - enabled: 1
@@ -83,6 +87,58 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/QuizGame/NiveisQuiz.unity
     guid: e7a2bc3748d84d64c82ac4bf608842af
+=======
+    path: Assets/Scenes/GameMasterChef/MCLevels.unity
+    guid: b783dc1f01f136944a625e76d1870d88
+  - enabled: 1
+    path: Assets/Scenes/GameMasterChef/MCRegras.unity
+    guid: de64686ff54e1f94f8d32e0e3d2819b4
+  - enabled: 1
+    path: Assets/Scenes/GameMasterChef/MCNivel1.unity
+    guid: 8a16dea14d65df44da9b6a68148f0254
+  - enabled: 1
+    path: Assets/Scenes/GameMasterChef/MCNivel2.unity
+    guid: 48fc87fabe6c750469d718fadd2b4d2d
+  - enabled: 1
+    path: Assets/Scenes/GameMasterChef/MCNivel3.unity
+    guid: cb17c9f4c76fbee49b64bc2d014e2c3b
+  - enabled: 1
+    path: Assets/Scenes/Alimentos/Carnes1.unity
+    guid: b4458182bfbb0bd428bb34abcaacc0d3
+  - enabled: 1
+    path: Assets/Scenes/Alimentos/Carnes2.unity
+    guid: 7c183c8f53dc5c2409c080e07dc2904e
+  - enabled: 1
+    path: Assets/Scenes/Alimentos/Frutas1.unity
+    guid: 429fe6db9855cc24cb5f53e909c1eb1d
+  - enabled: 1
+    path: Assets/Scenes/Alimentos/Frutas2.unity
+    guid: afaa17ff672ca05438a5db475388b1d2
+  - enabled: 1
+    path: Assets/Scenes/Alimentos/Gorduras1.unity
+    guid: 45de200a92e0c234cb588fe3702a6b72
+  - enabled: 1
+    path: Assets/Scenes/Alimentos/Gorduras2.unity
+    guid: 69d95eb8e452a8c41a121c09573db6bd
+  - enabled: 1
+    path: Assets/Scenes/Alimentos/Laticinios1.unity
+    guid: f083e559af0c6e548847493f5218ce04
+  - enabled: 1
+    path: Assets/Scenes/Alimentos/Laticinios2.unity
+    guid: 4097406410556c24ba3005b0f6e8ae1f
+  - enabled: 1
+    path: Assets/Scenes/Alimentos/Legumes1.unity
+    guid: 05e09be150b2cf84c8374ea9a117fc3c
+  - enabled: 1
+    path: Assets/Scenes/Alimentos/Legumes2.unity
+    guid: b613ff8f41804624292f4715079d5077
+  - enabled: 1
+    path: Assets/Scenes/Alimentos/Leguminosas1.unity
+    guid: 5c4293764e56f314dbf26802d4d9d36c
+  - enabled: 1
+    path: Assets/Scenes/Alimentos/Leguminosas2.unity
+    guid: 7796705e6f489dd4a967421d122fa7b6
+>>>>>>> 27e2acb717d85d16617afbeec04456a2cf2dc74e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
