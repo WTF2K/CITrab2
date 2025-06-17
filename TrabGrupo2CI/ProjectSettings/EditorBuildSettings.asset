@@ -41,6 +41,48 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/gamePazzle/FinalPazzle.unity
     guid: b93a7a790332f694ea9cacf95bbf1102
+  - enabled: 1
+    path: Assets/Scenes/CenaJogos.unity
+    guid: 1abe18dbdfa5591409647aa3c7415c5d
+  - enabled: 1
+    path: Assets/Scenes/QuizGame/QuizMenu.unity
+    guid: 26ac2ae215ef89e4597bd2c1c9cd55d4
+  - enabled: 1
+    path: Assets/Scenes/QuizGame/Regras.unity
+    guid: ffadf836bfebe304f8abebd1414b7e4f
+  - enabled: 1
+    path: Assets/Scenes/QuizGame/FinalScene.unity
+    guid: ae98e43a6e380304eb7dfff4e339d447
+  - enabled: 1
+    path: Assets/Scenes/QuizGame/NivelDificil/NivelDificil1.unity
+    guid: 113ee31f6d825b14994042c01b0f2f4f
+  - enabled: 1
+    path: Assets/Scenes/QuizGame/NivelDificil/NivelDificil2.unity
+    guid: 4d1d26f5732b9ec4eb8bb941fe3088ab
+  - enabled: 1
+    path: Assets/Scenes/QuizGame/NivelFacil/NivelFacil1.unity
+    guid: 999d8a0785a0fa446961caf8b5f9e40c
+  - enabled: 1
+    path: Assets/Scenes/QuizGame/NivelFacil/NivelFacil3.unity
+    guid: ea3ab35edee2a3048a6b5a51cec4a095
+  - enabled: 1
+    path: Assets/Scenes/QuizGame/NivelMedio/NivelMedio2.unity
+    guid: 259c656144a492f4e879210deb093cd9
+  - enabled: 1
+    path: Assets/Scenes/QuizGame/NivelMedio/NivelMedio1.unity
+    guid: f0cd86c3461c1ab40aaed1908396a8f3
+  - enabled: 1
+    path: Assets/Scenes/QuizGame/NivelMedio/NivelMedio3.unity
+    guid: 7339e9f327612a54e9bf7d5c221822c6
+  - enabled: 1
+    path: Assets/Scenes/QuizGame/NivelDificil/NivelDificil3.unity
+    guid: b9733ee1f9510ea42826f3dcdb5b7a7b
+  - enabled: 1
+    path: Assets/Scenes/QuizGame/NivelFacil/NivelFacil2.unity
+    guid: d86b88354349e7447bbd192cb6c286de
+  - enabled: 1
+    path: Assets/Scenes/QuizGame/NiveisQuiz.unity
+    guid: e7a2bc3748d84d64c82ac4bf608842af
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

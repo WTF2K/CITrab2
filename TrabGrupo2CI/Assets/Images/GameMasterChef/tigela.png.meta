@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tigela_0: 2677100319988115691
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
