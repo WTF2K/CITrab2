@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      feijao_0: 1962352581708974821
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

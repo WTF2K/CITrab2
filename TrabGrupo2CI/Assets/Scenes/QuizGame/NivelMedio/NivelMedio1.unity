@@ -738,8 +738,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "O que devemos comer todos os dias para ter energia e sa\xFAde?"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
-  m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1065,8 +1065,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -553, y: -188.47998}
-  m_SizeDelta: {x: 206.284, y: 360.89}
+  m_AnchoredPosition: {x: -542, y: -177.57}
+  m_SizeDelta: {x: 344.76, y: 355.15}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1714878309
 MonoBehaviour:
@@ -1132,7 +1132,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -9184844861621008742, guid: d3f62ac69c75d804287df4324e9c05db, type: 3}
+  m_Sprite: {fileID: 4201303707840949423, guid: 0d6d9d28f6d8ead4cb21371c2343140a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1185,8 +1185,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000091552734, y: -182.06001}
-  m_SizeDelta: {x: 224.313, y: 373.73}
+  m_AnchoredPosition: {x: -0.0061131, y: -177.57}
+  m_SizeDelta: {x: 266.121, y: 359.898}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1726506266
 MonoBehaviour:
@@ -1252,7 +1252,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -1860483430840833514, guid: 4813dfbc0841aae45b4d268b7fe8c36d, type: 3}
+  m_Sprite: {fileID: -5209720356119618007, guid: d128adb8a0a0aba4585da878dade48ae, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1305,8 +1305,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 542.00006, y: -179.47}
-  m_SizeDelta: {x: 218.471, y: 366.946}
+  m_AnchoredPosition: {x: 538.59, y: -183.059}
+  m_SizeDelta: {x: 391.257, y: 225.079}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1878277497
 MonoBehaviour:
@@ -1372,7 +1372,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 936936353392363057, guid: 11c4254f8e59c67489769c6cb78bd4b8, type: 3}
+  m_Sprite: {fileID: 6823428319495962501, guid: 162951faedfbf4f40bef06b75b58e4fa, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
