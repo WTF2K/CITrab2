@@ -21,11 +21,11 @@ public class LevelManager : MonoBehaviour
         var clickedItemName = EventSystem.current.currentSelectedGameObject.name;
         if (clickedItemName == rightAnswer.ToString())
         {
-            GameManager.IncrementRightAnswer(); 
+            GameManagerQuiz.IncrementRightAnswer(); 
             SceneManager.LoadScene(nextQuestionSceneName);
             return;
         }
-        GameManager.IncrementWrongAnswer(); 
-        SceneManager.LoadScene("LoseScene", LoadSceneMode.Additive);
+        GameManagerQuiz.IncrementWrongAnswer(); 
+        SceneManager.LoadScene("ErrorScene", LoadSceneMode.Additive);
     }
 }

@@ -535,10 +535,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 488005977}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 636e88209ab92734f8fb11d156a82f2f, type: 3}
+  m_Script: {fileID: 11500000, guid: 9bf2faabd719f6048b4ddb4332f91645, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: NivelFacil1
+  sceneName: 
 --- !u!1 &775421023
 GameObject:
   m_ObjectHideFlags: 0
@@ -1034,7 +1034,7 @@ GameObject:
   - component: {fileID: 1337265514}
   - component: {fileID: 1337265513}
   m_Layer: 5
-  m_Name: BtnFacil
+  m_Name: BtnVoltar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1105,8 +1105,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 488005979}
-        m_TargetAssemblyTypeName: ChangeScene, Assembly-CSharp
-        m_MethodName: ChangeSceneAction
+        m_TargetAssemblyTypeName: ChengError, Assembly-CSharp
+        m_MethodName: UnloadLoseScene
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
