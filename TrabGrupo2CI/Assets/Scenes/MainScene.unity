@@ -167,7 +167,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 636e88209ab92734f8fb11d156a82f2f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: RodaAlimentosScene
+  sceneName: VideoScene
 --- !u!1 &282818909
 GameObject:
   m_ObjectHideFlags: 0
